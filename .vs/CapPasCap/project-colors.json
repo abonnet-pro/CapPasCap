@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2a1eb06c-4e7c-48f3-9f89-7b417b294a37": {
+      "ProjectGuid": "2a1eb06c-4e7c-48f3-9f89-7b417b294a37",
+      "DisplayName": "CapPasCap.UsesCase.Tests",
+      "ColorIndex": 0
+    },
+    "b982fa29-55f4-41b8-adae-cb01efe00c92": {
+      "ProjectGuid": "b982fa29-55f4-41b8-adae-cb01efe00c92",
+      "DisplayName": "CapPasCap.UsesCase",
+      "ColorIndex": 1
+    },
+    "8cfb0f0b-bdb6-4a44-bc74-f8cb045a1614": {
+      "ProjectGuid": "8cfb0f0b-bdb6-4a44-bc74-f8cb045a1614",
+      "DisplayName": "CapPasCap.WebService",
+      "ColorIndex": 2
+    },
+    "7459e6a3-3d5d-4d85-82e7-18e9094257ee": {
+      "ProjectGuid": "7459e6a3-3d5d-4d85-82e7-18e9094257ee",
+      "DisplayName": "CapPasCap.WebService.Tests",
+      "ColorIndex": 3
+    },
+    "21d06358-9509-48ba-8987-047fdf484b18": {
+      "ProjectGuid": "21d06358-9509-48ba-8987-047fdf484b18",
+      "DisplayName": "CapPasCap.Infra",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    },
+    "e7bc2608-0661-4464-8e21-1104492588ca": {
+      "ProjectGuid": "e7bc2608-0661-4464-8e21-1104492588ca",
+      "DisplayName": "CapPasCap.Infra.Tests",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

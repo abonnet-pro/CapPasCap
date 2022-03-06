@@ -1,0 +1,12 @@
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.UsesCase\bin\Debug\net6.0\CapPasCap.UsesCase.deps.json
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.UsesCase\bin\Debug\net6.0\CapPasCap.UsesCase.dll
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.UsesCase\bin\Debug\net6.0\ref\CapPasCap.UsesCase.dll
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.UsesCase\bin\Debug\net6.0\CapPasCap.UsesCase.pdb
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.UsesCase\obj\Debug\net6.0\CapPasCap.UsesCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.UsesCase\obj\Debug\net6.0\CapPasCap.UsesCase.AssemblyInfoInputs.cache
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.UsesCase\obj\Debug\net6.0\CapPasCap.UsesCase.AssemblyInfo.cs
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.UsesCase\obj\Debug\net6.0\CapPasCap.UsesCase.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.UsesCase\obj\Debug\net6.0\CapPasCap.UsesCase.dll
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.UsesCase\obj\Debug\net6.0\ref\CapPasCap.UsesCase.dll
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.UsesCase\obj\Debug\net6.0\CapPasCap.UsesCase.pdb
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.UsesCase\obj\Debug\net6.0\CapPasCap.UsesCase.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.Infra\obj\Debug\net6.0\CapPasCap.Infra.csproj.AssemblyReference.cache
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.Infra\obj\Debug\net6.0\CapPasCap.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.Infra\obj\Debug\net6.0\CapPasCap.Infra.AssemblyInfoInputs.cache
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.Infra\obj\Debug\net6.0\CapPasCap.Infra.AssemblyInfo.cs
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.Infra\obj\Debug\net6.0\CapPasCap.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.Infra\bin\Debug\net6.0\CapPasCap.Infra.deps.json
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.Infra\bin\Debug\net6.0\CapPasCap.Infra.dll
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.Infra\bin\Debug\net6.0\ref\CapPasCap.Infra.dll
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.Infra\bin\Debug\net6.0\CapPasCap.Infra.pdb
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.Infra\bin\Debug\net6.0\CapPasCap.UsesCase.dll
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.Infra\bin\Debug\net6.0\CapPasCap.UsesCase.pdb
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.Infra\obj\Debug\net6.0\CapPasCap.Infra.csproj.CopyComplete
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.Infra\obj\Debug\net6.0\CapPasCap.Infra.dll
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.Infra\obj\Debug\net6.0\ref\CapPasCap.Infra.dll
+C:\Users\Tony\Documents\Esimed\TPs\dotNet\CapPasCap\CapPasCap.Infra\obj\Debug\net6.0\CapPasCap.Infra.pdb
